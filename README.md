@@ -1,6 +1,6 @@
 # Harsh Jat — Portfolio
 
-A clean, responsive personal portfolio built with **HTML, CSS, and Tailwind CSS** (CDN). No build step, no JavaScript frameworks — just static files.
+A clean, responsive personal portfolio built with **HTML and CSS only**. No frameworks, no build step, no JavaScript — just static files.
 
 ## Overview
 
@@ -15,12 +15,11 @@ Single-page portfolio featuring:
 
 ## Tech Stack
 
-| Layer     | Technology                    |
-| --------- | ----------------------------- |
-| Markup    | HTML5                         |
-| Styling   | CSS3 (custom properties, Grid, Flexbox) |
-| Utilities | Tailwind CSS (CDN)            |
-| Hosting   | GitHub Pages                  |
+| Layer     | Technology                              |
+| --------- | --------------------------------------- |
+| Markup    | HTML                                    |
+| Styling   | CSS (custom properties, Grid, Flexbox)  |
+| Hosting   | GitHub Pages                            |
 
 ## Local Development
 
